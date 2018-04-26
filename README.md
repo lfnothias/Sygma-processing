@@ -5,7 +5,7 @@ This jupyter notebook uses RDKit and SyGMA library to predict the potential meta
 Note that several filters are used for input library (no stereochemistry, smaller and larger compounds removed, only organic compounds)
 
 SyGMA paper "SyGMa: combining expert knowledge and empirical scoring in the prediction of metabolites."
-https://onlinelibrary.wiley.com/doi/abs/10.1002/cmdc.200700312
+Ridder, L. and Wagener, M. (2008), SyGMa: Combining Expert Knowledge and Empirical Scoring in the Prediction of Metabolites. ChemMedChem, 3: 821-832. doi:10.1002/cmdc.200700312
 
 SyGMA python library
 https://github.com/3D-e-Chem/sygma
